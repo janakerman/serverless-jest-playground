@@ -1,0 +1,3 @@
+{
+    "testMatch": "src/js/test/unit/**/?(*.)+(spec|test).[jt]s?(x)" 
+}

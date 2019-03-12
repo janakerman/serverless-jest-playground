@@ -1,0 +1,6 @@
+{
+    "testEnvironment": "./serverless-jest-environment.js",
+    "globalSetup": "./init-stack.js",
+    "testMatch": ["./**/*spec.js"],
+    "setupFilesAfterEnv": ["./jest-setup.js"]
+}

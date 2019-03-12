@@ -1,0 +1,16 @@
+{
+  "name": "serverless-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-acceptance": "jest --config=src/js/test/acceptance/jest-config.json --colors"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.4.0",
+    "uuid": "^3.3.2"
+  }
+}

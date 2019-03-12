@@ -1,0 +1,1 @@
+Scratchpad project for upcoming blog
